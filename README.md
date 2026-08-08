@@ -52,6 +52,15 @@ vocabulary, all cross-referenced through `@mentions`. **React + Vite** frontend 
 
 `react` `vite` `django` `django-rest-framework` `rest-api` `pwa`
 
+### ◈ [fly-in](https://github.com/FNYRD/fly-in) — routing over a graph
+
+Drone routing simulator: given a map of connected zones with capacity limits and entry costs, it
+moves every drone from the origin hub to the destination in **as few turns as possible**, with all
+drones advancing simultaneously. Pure Python, fully object-oriented, no external graph libraries,
+`flake8` and `mypy --strict` clean.
+
+`python` `algorithms` `graph` `pathfinding` `simulation` `oop`
+
 ### ◈ [a-maz-ing](https://github.com/FNYRD/a-maz-ing) — maze generation and visualization
 
 Procedural maze generator with **DFS and Wilson's algorithm**, rendered in an interactive window.
